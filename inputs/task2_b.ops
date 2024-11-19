@@ -1,0 +1,7 @@
+# task2_b.ops
+
+filter bachelor_or_above_completion > 40
+
+calculate poverty_rate / total_population * 100
+
+output county_name, poverty_rate

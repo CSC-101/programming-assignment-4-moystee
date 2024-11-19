@@ -1,0 +1,7 @@
+# task2_d.ops
+
+filter ethnicity_percentage < 40
+
+calculate poverty_rate / total_population * 100
+
+output county_name, poverty_rate
