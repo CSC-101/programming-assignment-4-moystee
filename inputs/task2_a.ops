@@ -1,0 +1,7 @@
+# task2_a.ops
+
+filter high_school_completion < 80
+
+calculate poverty_rate / total_population * 100
+
+output county_name, poverty_rate
